@@ -1,4 +1,4 @@
-Name: Li Kwok Leung
-ID: 1234567
+Psedo Name: Peter
+ID: 12345678
 
 ![Alt Text](screen.jpg)
